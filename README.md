@@ -17,7 +17,9 @@
 |[Filter pruning via geometric median for deep convoultion neural networks acceleration](https://arxiv.org/abs/1811.00250)|CVPR|2019|Filter|
 |[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174)|NeurIPS|2019|Filter|
 |[HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179)|CVPR|2020|Filter|
+|[DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354)|CVPR|2020|Filter|diffentable search|
 |[BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)|CVPR|2021|Filter|supernet|
+
 
 
 
