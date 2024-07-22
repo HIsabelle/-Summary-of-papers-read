@@ -12,11 +12,12 @@
 |Title|Venue|Year|Pruning Type|Note|
 |------|:---:|:---:|:------:|----|
 |[Pruning filters for efficient convnets](https://arxiv.org/abs/1608.08710)|ICLR|2017|Filter|
-|[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)|ECCV|2018|Filter|Search base Pruning|
-|[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)|ICCV|2019|Filter|Search base Pruning|
+|[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)|ECCV|2018|Filter|Search base Pruning,RL|
+|[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)|ICCV|2019|Filter|Search base Pruning,supernet|
 |[Filter pruning via geometric median for deep convoultion neural networks acceleration](https://arxiv.org/abs/1811.00250)|CVPR|2019|Filter|
 |[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174)|NeurIPS|2019|Filter|
 |[HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179)|CVPR|2020|Filter|
+|[BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)|CVPR|2021|Filter|supernet|
 
 
 
