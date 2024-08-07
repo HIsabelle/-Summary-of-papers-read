@@ -18,8 +18,10 @@
 |[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174)|NeurIPS|2019|Filter|
 |[HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179)|CVPR|2020|Filter|
 |[DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354)|CVPR|2020|Filter|diffentable search|
+|[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368)|CVPR(Oral)|2020|Filter|
 |[BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)|CVPR|2021|Filter|supernet|
 |[Depgraph: towards any structure pruning](https://arxiv.org/abs/2301.12900)|CVPR|2023|Filter|
+
 
 
 
