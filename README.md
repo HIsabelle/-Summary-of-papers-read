@@ -9,7 +9,7 @@
 
 ## Pruning
 
-|읽은 순서||Title|Venue|Year|Pruning Type|Note|
+|읽은 순서|Title|Venue|Year|Pruning Type|Note|
 |:---:|------|:---:|:---:|:------:|----|
 |1|[Pruning filters for efficient convnets](https://arxiv.org/abs/1608.08710)|ICLR|2017|Filter|
 |5|[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)|ECCV|2018|Filter|Search base Pruning,RL|
@@ -26,7 +26,7 @@
 
 ## Model
 
-|읽은 순서||Title|Venue|Year|Model Type|Note|
+|읽은 순서|Title|Venue|Year|Model Type|Note|
 |:---:|------|:---:|:---:|:------:|----|
 |15|[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)|CVPR|2019|CNN|
 
