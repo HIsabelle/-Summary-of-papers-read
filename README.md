@@ -18,7 +18,7 @@
 |3|[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174)|NeurIPS|2019|Filter|
 |18|[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)|ICLR|2019|Weight|
 |4|[HRank: Filter Pruning using High-Rank Feature Map](https://arxiv.org/abs/2002.10179)|CVPR|2020|Filter|
-|8|[DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354)|CVPR|2020|Filter|diffentable search|
+|8|[DMCP: Differentiable Markov Channel Pruning for Neural Networks](https://arxiv.org/abs/2005.03354)|CVPR|2020|Filter|diffentiable search|
 |14|[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368)|CVPR(Oral)|2020|Filter|
 |16|[Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/abs/2005.07683)|NeurIPS|2020|Weight|
 |7|[BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)|CVPR|2021|Filter|supernet|
