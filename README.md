@@ -12,7 +12,7 @@
 ## Pruning
 
 |읽은 순서|Title|Venue|Year|Pruning Type|Note|정리 링크(나만 보기용)|
-|:---:|------|:---:|:---:|:------:|----|:------:|
+|:---:|------|:---:|:---:|:------:|----|------|
 |1|[Pruning filters for efficient convnets](https://arxiv.org/abs/1608.08710)|ICLR|2017|Filter||(https://1m0n-earth.tistory.com/12)|
 |5|[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)|ECCV|2018|Filter|Search base Pruning,RL|(https://1m0n-earth.tistory.com/14)|
 |6|[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)|ICCV|2019|Filter|Search base Pruning,supernet|(https://1m0n-earth.tistory.com/14)|
