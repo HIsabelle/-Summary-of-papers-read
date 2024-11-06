@@ -31,13 +31,13 @@
 ### 2024 ECCV
 |읽은 순서|Title|Venue|Year|Pruning Type|Note|정리 링크(나만 보기용)|
 |:---:|------|:---:|:---:|:------:|----|------|
-||GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation(https://arxiv.org/pdf/2407.10756)|ECCV|2024|Token|||
-||3D Small Object Detection with Dynamic Spatial Pruning(https://arxiv.org/pdf/2305.03716)|ECCV|2024|Spatial|||
-||Straightforward Layer-wise Pruning for More Efficient Visual Adaptation(https://arxiv.org/pdf/2407.14330)|ECCV|2024|layer|layer을 prune하는데...음 layer자체를 다 삭제하는건가||
-||SNP: Structured Neuron-level Pruning to Preserve Attention Scores(https://arxiv.org/pdf/2404.11630)|ECCV|2024|neuron|||
-||Isomorphic Pruning for Vision Models(https://arxiv.org/pdf/2407.04616)|ECCV|2024|neuron|network||
-||LPViT: Low-Power Semi-structured Pruning for Vision Transformers(https://arxiv.org/pdf/2407.02068)|ECCV|2024|neuron|network||
-||IVTP: Instruction-guided Visual Token Pruning for Large Vision-Language Models(https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf)|ECCV|2024|neuron|Token||
+||GTPT: Group-based Token Pruning Transformer for Efficient Human Pose Estimation(https://arxiv.org/pdf/2407.10756).|ECCV|2024|Token|||
+||3D Small Object Detection with Dynamic Spatial Pruning(https://arxiv.org/pdf/2305.03716).|ECCV|2024|Spatial|||
+||Straightforward Layer-wise Pruning for More Efficient Visual Adaptation(https://arxiv.org/pdf/2407.14330).|ECCV|2024|layer|layer을 prune하는데...음 layer자체를 다 삭제하는건가||
+||SNP: Structured Neuron-level Pruning to Preserve Attention Scores(https://arxiv.org/pdf/2404.11630).|ECCV|2024|neuron|||
+||Isomorphic Pruning for Vision Models(https://arxiv.org/pdf/2407.04616).|ECCV|2024|neuron|network||
+||LPViT: Low-Power Semi-structured Pruning for Vision Transformers(https://arxiv.org/pdf/2407.02068).|ECCV|2024|neuron|network||
+||IVTP: Instruction-guided Visual Token Pruning for Large Vision-Language Models(https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02577.pdf).|ECCV|2024|neuron|Token||
 
 
 ## Model
