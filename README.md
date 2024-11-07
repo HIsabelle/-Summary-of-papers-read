@@ -44,7 +44,7 @@
 |읽은 순서|Title|Venue|Year|Model name|Model Type|Note|
 |:---:|------|:---:|:---:|:-----:|:------:|----|
 |15|[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)|CVPR|2019|MobileNetV2|CNN|
-||[Visual Instruction Tuning]([https://arxiv.org/abs/1801.04381](https://arxiv.org/pdf/2304.08485))|NeurIPS|2023|LLaVA|Transformer|IVTP가 target하는 model|
+||[Visual Instruction Tuning]([https://arxiv.org/abs/1801.04381](https://arxiv.org/pdf/2304.08485)|NeurIPS|2023|LLaVA|Transformer|IVTP가 target하는 model|
 
 
 
